@@ -1,0 +1,43 @@
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
+
+
+a solution could be with regular expression and e.g. perl, so you parse for comments (easy) and other text (more difficult?), remember the position of the single pieces of text in the whole file and write the text linewise in a file. Translate that file. Read it in again and put the text back in the document at stored places. – Faekynn Jun 22 '14 at 15:13
