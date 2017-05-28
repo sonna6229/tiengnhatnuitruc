@@ -224,9 +224,9 @@ function html5blank_header_scripts()
         wp_register_script('custom_admin_script', get_template_directory_uri() . '/js/scripts.js', array('jquery'), '1.0.0'); // Custom scripts
         wp_enqueue_script('custom_admin_script'); // Enqueue it!
 
-        wp_localize_script( 'custom_admin_script', 'get_course', [
+        wp_localize_script( 'custom_admin_script', 'get_course', array(
             'ajax_url' => admin_url('admin-ajax.php')
-        ]);
+        ));
     }
 }
 // Load HTML5 Blank conditional scripts
@@ -585,23 +585,23 @@ function html5_shortcode_demo_2($atts, $content = null) // Demo Heading H2 short
 function get_course_action()
 {
     $slug = $_POST['slug'];
-    $args = [
+    $args = array(
         'category_name' => $slug,
         'order' => 'DESC',
         'post_status' => 'publish'
-    ];
-    $data = [];
+    );
+    $data = array();
     $query = new WP_Query($args);
 
     if( $query->have_posts() ){
         while($query->have_posts()) : $query->the_post();
 
-            array_push($data,[
+            array_push($data,array(
                 'title' => get_the_title(),
                 'thumbnail' => has_post_thumbnail() ? get_the_post_thumbnail(get_the_ID(),'newmedium-200x124') : get_template_directory_uri()."/images/no_image.png",
                 'excerpt' => get_the_excerpt(),
                 'permalink' => get_the_permalink()
-            ]);
+            ));
         endwhile;
         wp_reset_postdata();
     }

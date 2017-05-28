@@ -90,11 +90,11 @@ get_header();
           </div>
           <section class="course_list">
             <?php
-            $args = [
+            $args = array(
                 'category_name' => 'tieng-nhat-so-cap',
                 'order' => 'DESC',
                 'post_status' => 'publish'
-            ];
+            );
             $admiss_query = new WP_Query($args); ?>
             <?php
               $stt = 0;
