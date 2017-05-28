@@ -94,10 +94,10 @@
                         html += '</div>';
                         html += '</article>';
                     });
-                    $('.course_list').html('').append(html).hide().fadeIn('slow');
+                    $('.course_list').html('').append(html).hide().fadeIn('10000');
 				},
 				error: function(respone){
-                    $('.course_list').html('').append(respone.responseText).hide().fadeIn('slow');
+                    $('.course_list').html('').append(respone.responseText).hide().fadeIn('10000');
 				}
 			});
 		});
